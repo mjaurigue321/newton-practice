@@ -1,2 +1,2 @@
 # newton-practice
-implementation of newton's method for the workshop
+edit: implementation of newton's method for the workshop
